@@ -1,0 +1,14 @@
+body,html {
+    margin: 0;
+    padding: 0;
+    }
+    h1 {
+        font-family: sans-serif;
+    }
+    .menu-item {
+        list-style: none;
+    }
+    .menu-item a {
+        text-decoration: none;
+    }
+ 

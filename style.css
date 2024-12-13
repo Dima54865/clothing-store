@@ -1,6 +1,36 @@
+body,html {
+    margin: 0px;
+    padding: 0px;
+    }
 h1 {
     font-family: sans-serif;
 }
 .menu-item {
     list-style: none;
 }
+.menu-item a {
+    text-decoration: none;
+}
+img {
+    width: 200px;
+    height: 200px;
+}
+a {
+    color: inherit;
+  }
+  a {
+    text-decoration: none;
+  }
+  .card {
+    width: 400px;
+    min-height: 600px;
+    box-shadow: 4px 4px 4px rgba(2000, 2, 2000, 2);
+    display: flex;
+    flex-direction: column;
+    border-radius: 40px;
+    transition: 0.2s;
+    position: relative;
+    border: 10px solid #d900ff;
+  }
+  
+  
